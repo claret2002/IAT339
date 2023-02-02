@@ -1,4 +1,4 @@
-This is text file 1. 
+Claret just edited this text
 
 branch1 aswell
 
