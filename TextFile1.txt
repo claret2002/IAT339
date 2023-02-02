@@ -1,4 +1,6 @@
-Claret just edited this text
+
+OLIVIA'S CHANGE THAT WILL CREATE CONFLICT
+CONFLICT
 
 branch1 aswell
 
