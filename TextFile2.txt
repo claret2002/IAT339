@@ -1,7 +1,11 @@
 This is text file 2. 
 
 
+<<<<<<< HEAD
 Claret is editing this
+=======
+Olivia's change
+>>>>>>> branch1
 
 
 
